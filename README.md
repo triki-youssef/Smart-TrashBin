@@ -40,6 +40,11 @@ The Smart TrashBin is a contactless, automated waste bin designed for hygiene an
 
  <img src="https://i.imgur.com/yZJiHY9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+https://github.com/user-attachments/assets/c32cdf7a-abff-4aea-803b-a39c92e49748
+
+
+<br />
 <br />
 
 <h2>📂 Included Files:</h2>
