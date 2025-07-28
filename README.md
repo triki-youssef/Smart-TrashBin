@@ -36,19 +36,21 @@ The Smart TrashBin is a contactless, automated waste bin designed for hygiene an
 
 <p align="center">
 <br/>
-<img src="https://www.gie.com.my/UploadFiles/robotics/kits/arcylic_robot_arm_1_large.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QzvgiUs.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+ <img src="https://i.imgur.com/yZJiHY9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
 <h2>📂 Included Files:</h2>
 
 
-</h3>📁 You will find in the files:</h3>
+<h3>📁 You will find in the files:</h3>
 
 ✅ Arduino Code
 
 ✅ Wiring Diagram
 
-✅ Photos & Demo Video
+✅ Photos & Demo Video (Download)
 
 ✅ 3D Design 
